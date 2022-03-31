@@ -32,7 +32,7 @@
         <header class="masthead bg-info text-white text-center">
             <div class="container d-flex align-items-center flex-column">
                 <!-- Masthead Avatar Image-->
-                <img class="masthead-avatar mb-5" src="assets/img/avataaars.svg" alt="..." />
+                <img class="masthead-avatar mb-5 img-social"  src="assets/img/AbalosPaulNigelPic.jpg" alt="..." />
                 <!-- Masthead Heading-->
                 <h1 class="masthead-heading text-uppercase mb-0">Hi I'm Paul Nigel Abalos</h1>
                 <!-- Icon Divider-->
@@ -42,7 +42,7 @@
                     <div class="divider-custom-line"></div>
                 </div>
                 <!-- Masthead Subheading-->
-                <p class="masthead-subheading font-weight-light mb-0">Network - Web Designer - Instructor</p>
+                <p class="masthead-subheading font-weight-light mb-0">Network Administrator - Web Designer - Instructor</p>
             </div>
         </header>
         <!-- Portfolio Section-->
@@ -229,7 +229,7 @@
                     <div class="col-lg-4">
                         <h4 class="text-uppercase mb-4">About Me</h4>
                         <p class="lead mb-0">
-                            I'am a Master's Degree 
+                            A student of University of the Cordilleras 
                         </p>
                     </div>
                 </div>
@@ -250,7 +250,7 @@
                             <div class="row justify-content-center">
                                 <div class="col-lg-8">
                                     <!-- Portfolio Modal - Title-->
-                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">House</h2>
+                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Home</h2>
                                     <!-- Icon Divider-->
                                     <div class="divider-custom">
                                         <div class="divider-custom-line"></div>
@@ -356,7 +356,7 @@
                                     <!-- Portfolio Modal - Image-->
                                     <img class="img-fluid rounded mb-5" src="assets/img/portfolio/game.png" alt="..." />
                                     <!-- Portfolio Modal - Text-->
-                                    <p class="mb-4">In Sports I Played Basketball, Volleyball, Badminton, Table tennis and Sepak Takraw and in Digital Games i Played League of Legend, Pubg, Mobile Legend, and Tample Run.</p>
+                                    <p class="mb-4">In Sports I played Basketball, Volleyball, Badminton, Table tennis and Sepak Takraw and in Digital Games I played League of Legend, Pubg, Mobile Legend, and Temple Run.</p>
                                     <button class="btn btn-primary" data-bs-dismiss="modal">
                                         <i class="fas fa-xmark fa-fw"></i>
                                         Close Window
@@ -388,7 +388,7 @@
                                     <!-- Portfolio Modal - Image-->
                                     <img class="img-fluid rounded mb-5" src="assets/img/portfolio/safe.png" alt="..." />
                                     <!-- Portfolio Modal - Text-->
-                                    <p class="mb-4">I don't have much money, but I do have Treasure in life example my parents, sister, wife, pets, friends and families. </p>
+                                    <p class="mb-4">I don't have a lot of money, but I have many treasures in my life, such as my parents, sister, wife, dogs, friends, and family.</p>
                                     <button class="btn btn-primary" data-bs-dismiss="modal">
                                         <i class="fas fa-xmark fa-fw"></i>
                                         Close Window
