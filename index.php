@@ -260,7 +260,7 @@
                                     <!-- Portfolio Modal - Image-->
                                     <img class="img-fluid rounded mb-5" src="assets/img/portfolio/cabin.png" alt="..." />
                                     <!-- Portfolio Modal - Text-->
-                                    <p class="mb-4">At home I usually doing household chores like doing  the laundry, vacuuming, sweeping, washing the dishes and feeding my pets.</p>
+                                    <p class="mb-4">At home I usually do household chores like doing  the laundry, vacuuming, sweeping, washing the dishes and feeding my pets.</p>
                                     <button class="btn btn-primary" data-bs-dismiss="modal">
                                         <i class="fas fa-xmark fa-fw"></i>
                                         Close Window
@@ -324,7 +324,7 @@
                                     <!-- Portfolio Modal - Image-->
                                     <img class="img-fluid rounded mb-5" src="assets/img/portfolio/circus.png" alt="..." />
                                     <!-- Portfolio Modal - Text-->
-                                    <p class="mb-4">I love to travel and explore new places, and these are the places I've been to Bolinao, Alaminos, Dasul, San Juan La Union, Hotel Luna in Vigan, Fort Ilocandia, Hotel Vitalis, Las Casas Filipinas De Acuzar in Bataan, Subic, Pico De loro in Bantangas, Club Balai Isabel in Batangas, Tagaytay, Samal Island in Davao, Enchanted River in Davao, Palawan, Amsterdam, Haarlem, Rotterdam, The Hauge, Antwerp, Belgium, Düsseldorf in Germany, Cologne in Germany, Paris France and etc.  </p>
+                                    <p class="mb-4">I love to travel and explore new places, and these are the places I've been to: Bolinao, Alaminos, Dasul, San Juan La Union, Hotel Luna in Vigan, Fort Ilocandia, Hotel Vitalis, Las Casas Filipinas De Acuzar in Bataan, Subic, Pico De loro in Bantangas, Club Balai Isabel in Batangas, Tagaytay, Samal Island in Davao, Enchanted River in Davao, Palawan, Amsterdam, Haarlem, Rotterdam, The Hauge, Antwerp, Belgium, Düsseldorf in Germany, Cologne in Germany, Paris France and etc.  </p>
                                     <button class="btn btn-primary" data-bs-dismiss="modal">
                                         <i class="fas fa-xmark fa-fw"></i>
                                         Close Window
@@ -356,7 +356,7 @@
                                     <!-- Portfolio Modal - Image-->
                                     <img class="img-fluid rounded mb-5" src="assets/img/portfolio/game.png" alt="..." />
                                     <!-- Portfolio Modal - Text-->
-                                    <p class="mb-4">In Sports I played Basketball, Volleyball, Badminton, Table tennis and Sepak Takraw and in Digital Games I played League of Legend, Pubg, Mobile Legend, and Temple Run.</p>
+                                    <p class="mb-4">In Sports I play Basketball, Volleyball, Badminton, Table tennis and Sepak Takraw and in Digital Games I play League of Legend, Pubg, Mobile Legend, and Temple Run.</p>
                                     <button class="btn btn-primary" data-bs-dismiss="modal">
                                         <i class="fas fa-xmark fa-fw"></i>
                                         Close Window
